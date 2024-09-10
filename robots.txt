@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ufaxitws.github.io/sitemap/sitemap.txt
